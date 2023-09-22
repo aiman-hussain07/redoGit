@@ -1,0 +1,2 @@
+# redoGit
+Checking out GitHub
