@@ -5,4 +5,4 @@ Checking out GitHub
 Aiman Hussain
 
 # Process
-Clone. Add. Commit. Push
+Clone. Add(Staged a change). Commit. Push
